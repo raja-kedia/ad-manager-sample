@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ad-manager",
+    "slug": "ad-manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ad-manager"
+}
